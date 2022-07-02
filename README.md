@@ -37,9 +37,6 @@
 </div>
 
 ###
-
-<!--<br clear="both">>
-
-<img href="https://raw.githubusercontent.com/RodrigoAguiarS/RodrigoAguiarS/blob/output/snake.svg" alt="Snake animation" />-->
-
-###
+<p align="center">
+  <img src="https://github.com/nyunn/nyunn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
