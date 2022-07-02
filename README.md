@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rodrigo and I'm an Android Developer, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo and I'm an Development Intern, from Brazil</h2>
 
 ###
 
@@ -23,18 +23,23 @@
 ###
 
 <div align="left">
+  <a href="https://discord.gg/JwnE3rPC">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 
   <a href="https://www.linkedin.com/in/rodrigo-aguiar-silva-a8311019a/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+
+  <a href="mailto:rodrigo_aguiars@outlook.com">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+
+  <a href="https://www.instagram.com/rodrigo.aguiar479/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
 
-<br clear="both">
+<!--<br clear="both">>
 
-<img href="https://raw.githubusercontent.com/RodrigoAguiarS/RodrigoAguiarS/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/RodrigoAguiarS/RodrigoAguiarS/blob/output/snake.svg" alt="Snake animation" />-->
 
 ###
