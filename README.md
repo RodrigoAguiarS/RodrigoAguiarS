@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rodrigo and I'm an Development Intern, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Rodrigo and I'm a Systems Analyst, from Brazil.</h2>
 
 ###
 
